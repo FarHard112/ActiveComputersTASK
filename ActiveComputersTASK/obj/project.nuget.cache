@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ISQxk8GkdO0cxCP9m4Rdq/+Pv50DtWlo4OLJu8L7lNshZ4/cBUKmoyjc8jri+pzafaZjaz0a+oxSnB+wucT7WA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MSI-PC\\source\\repos\\ActiveComputersTASK\\ActiveComputersTASK\\ActiveComputersTASK.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MSI-PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.8\\microsoft.netcore.app.host.win-x64.5.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
